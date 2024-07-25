@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\txt\\cpp\\Projects\\OpenGLLearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F04C71-2AB1-47FC-A9A2-504F8B18451B}|OpenGLLearning.vcxproj|E:\\txt\\cpp\\Projects\\OpenGLLearning\\colors.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F3F04C71-2AB1-47FC-A9A2-504F8B18451B}|OpenGLLearning.vcxproj|solutionrelative:colors.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F04C71-2AB1-47FC-A9A2-504F8B18451B}|OpenGLLearning.vcxproj|E:\\txt\\cpp\\Projects\\OpenGLLearning\\colors.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3F04C71-2AB1-47FC-A9A2-504F8B18451B}|OpenGLLearning.vcxproj|solutionrelative:colors.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F04C71-2AB1-47FC-A9A2-504F8B18451B}|OpenGLLearning.vcxproj|E:\\txt\\cpp\\Projects\\OpenGLLearning\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3F04C71-2AB1-47FC-A9A2-504F8B18451B}|OpenGLLearning.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "colors.fs",
+              "DocumentMoniker": "E:\\txt\\cpp\\Projects\\OpenGLLearning\\colors.fs",
+              "RelativeDocumentMoniker": "colors.fs",
+              "ToolTip": "E:\\txt\\cpp\\Projects\\OpenGLLearning\\colors.fs",
+              "RelativeToolTip": "colors.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T11:34:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "colors.vs",
+              "DocumentMoniker": "E:\\txt\\cpp\\Projects\\OpenGLLearning\\colors.vs",
+              "RelativeDocumentMoniker": "colors.vs",
+              "ToolTip": "E:\\txt\\cpp\\Projects\\OpenGLLearning\\colors.vs",
+              "RelativeToolTip": "colors.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-25T11:34:53.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\txt\\cpp\\Projects\\OpenGLLearning\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\txt\\cpp\\Projects\\OpenGLLearning\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-25T10:45:02.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
